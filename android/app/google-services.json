@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223566240892",
+    "project_id": "i-air-7444a",
+    "storage_bucket": "i-air-7444a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223566240892:android:170537167bf19c341d3df9",
+        "android_client_info": {
+          "package_name": "in.neofox.io_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223566240892-s2vvipfaloaga1l4b9jbvua0604pn9n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdIAb7ymXnf3WuM5PjHiL2GFDro4mjOrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223566240892-s2vvipfaloaga1l4b9jbvua0604pn9n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
